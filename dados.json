@@ -1,0 +1,57 @@
+[
+    {  
+        "categoria": "Action Figures",
+        "brinquedos": [
+            {
+                "nome": "Olho Tandera",
+                "imagem": "images/toy_001.jpg",
+                "whatsapp": "31999999999",
+                "valor": "R$ 100.00"
+            },
+            {
+                "nome": "Exemplo Brinquedo 2",
+                "imagem": "images/toy_002.jpg",
+                "whatsapp": "31999999999",
+                "valor": "R$ 200.00"
+            }
+        ]
+
+    },
+    {  
+        "categoria": "Veículos",
+        "brinquedos": [
+            {
+                "nome": "Exemplo Brinquedo 3",
+                "imagem": "images/toy_003.jpg",
+                "whatsapp": "31999999999",
+                "valor": "R$ 50.00"
+            },
+            {
+                "nome": "Exemplo Brinquedo 4",
+                "imagem": "images/toy_004.jpg",
+                "whatsapp": "31999999999",
+                "valor": "R$ 10.00"
+            }
+        ]
+
+    },
+    {  
+        "categoria": "Pelúcia",
+        "brinquedos": [
+            {
+                "nome": "Exemplo Brinquedo 5",
+                "imagem": "images/toy_005.jpg",
+                "whatsapp": "31999999999",
+                "valor": "R$ 150.00"
+            },
+            {
+                "nome": "Exemplo Brinquedo 6",
+                "imagem": "images/toy_006.jpg",
+                "whatsapp": "31999999999",
+                "valor": "R$ 120.00"
+            }
+        ]
+
+    }
+
+]
